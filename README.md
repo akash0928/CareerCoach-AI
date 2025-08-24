@@ -2,6 +2,9 @@
 
 An AI-powered career advancement platform that helps job seekers optimize their resumes and practice interviews with personalized feedback.
 
+## Live Demo
+[Visit the app here](https://kural-chi.vercel.app/)
+
 ## Features
 
 ### ATS Resume Analysis
@@ -84,5 +87,6 @@ An AI-powered career advancement platform that helps job seekers optimize their 
 
 **Note**: If you don't provide an ElevenLabs API key, the app will use the browser's built-in speech synthesis as a fallback.
 ---
+
 
 **Made with ❤️ for job seekers everywhere. Good luck with your career journey!** 🎯
