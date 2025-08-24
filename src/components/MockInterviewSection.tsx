@@ -20,7 +20,7 @@ interface MockInterviewSectionProps {
   interviewData: InterviewData;
 }
 
-const GEMINI_API_KEY = 'AIzaSyB3PIyCr8Kp-3H5jU0nOMv5fbqZ5dZvZVA';
+const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 
 export function MockInterviewSection({ onInterviewComplete, interviewData }: MockInterviewSectionProps) {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
