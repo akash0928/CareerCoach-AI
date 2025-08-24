@@ -2,9 +2,6 @@
 
 An AI-powered career advancement platform that helps job seekers optimize their resumes and practice interviews with personalized feedback.
 
-## Live Demo
-[Visit the app here](https://kural-chi.vercel.app/)
-
 ## Features
 
 ### ATS Resume Analysis
